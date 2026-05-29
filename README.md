@@ -1,5 +1,7 @@
 # Online Exam & Proctoring System
 
+Online Exam and Proctoring System developed by Varun Choudhary, featuring teacher exam management, student assessments, webcam monitoring, anti-cheating detection, automatic submission, score evaluation, and secure examination workflow.
+
 A simple full-stack project for college use:
 - Teacher login and exam creation
 - Student login and timed exam
